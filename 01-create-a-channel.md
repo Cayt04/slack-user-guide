@@ -9,9 +9,9 @@ A workspace is your team's home in Slack, and channels are the spaces inside it 
 1. Go to `app.slack.com` and sign in.
 2. Select **Create a new workspace**.
    ![Slack sidebar showing the option to add a channel](images/channel-01-create-workspace.png.png)
-3. [Name your workspace and click on **Next**.]
-4. [Type in your name, then add a photo if you wish. Click on **Next**.]
-5. [Invite your teammates. You can skip this step using the **Skip this step** button.]
+3. Name your workspace and click on **Next**.
+4. Type in your name, then add a photo if you wish. Click on **Next**.
+5. Invite your teammates. You can skip this step using the **Skip this step** button.
 6. A pop up window appears.
    ![The pop-up window for creating a channel](images/channel-02-pop-up-window.png.png)
 8. Answer the questions on how you want to use Slack, and then, **Next**.
