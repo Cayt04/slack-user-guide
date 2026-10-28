@@ -9,4 +9,4 @@ A self-initiated portfolio project showing task-based documentation for Slack. I
 - **Tools:** Slack (free workspace), Markdown, Git
 
 ## Documents
-Coming soon.
+[How to create a channel in Slack](01-create-a-channel.md)
