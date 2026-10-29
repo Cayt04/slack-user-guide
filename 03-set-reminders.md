@@ -13,13 +13,13 @@ The `/remind` command makes Slackbot send you a reminder at a time you choose. I
 
    `/remind me to document this tomorrow by 9am`
 
-   ![The /remind command typed in the message box](images/reminder-01-command.png)
+   ![The /remind command typed in the message box](images/reminder-02-command.png)
 
 3. Press **Enter** to send.
 
 Slackbot replies with a confirmation that only you can see. It states what it will remind you about and when.
 
-![Slackbot confirming the reminder](images/reminder-02-confirmation.png)
+![Slackbot confirming the reminder](images/reminder-01-confirmation.png)
 
 > **Tip:** Put the time at the end of the command, after the task. If the time is part of the task wording, Slack can read it incorrectly and set the wrong time.
 
