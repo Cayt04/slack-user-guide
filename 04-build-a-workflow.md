@@ -15,7 +15,7 @@ A workflow is a no-code automation. In this guide, you will use a template to ma
 
 3. Select the **Scheduled message** template. Its description says it schedules a recurring message to ask for status or project updates.
 
-   ![The Scheduled message template](images/workflow-02-template.v2.png)
+   ![The Scheduled message template](images/workflow-02-template-v2.png)
 
 4. Fill in the details Slack asks for, including your channel, a message, and a scheduled day and time.
 
