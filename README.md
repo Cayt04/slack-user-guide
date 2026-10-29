@@ -7,7 +7,7 @@ A self-initiated portfolio project showing task-based documentation for Slack. I
 - **Audience:** Freelancers and small teams new to Slack
 - **Goal:** Help a first-time user get started with core Slack features
 - **Tools:** Slack (free workspace), Markdown, Git
-- - **Process:** I tested every feature in a free Slack workspace, captured screenshots, and wrote each guide from my own notes
+- **Process:** I tested every feature in a free Slack workspace, captured screenshots, and wrote each guide from my own notes
 
 ## Documents
 [How to create a channel in Slack](01-create-a-channel.md)
