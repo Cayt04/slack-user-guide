@@ -14,3 +14,5 @@ A self-initiated portfolio project showing task-based documentation for Slack. I
 [How to set a reminder in Slack with /remind](03-set-reminders.md)
 
 [How to build a scheduled message workflow in Slack](04-build-a-workflow.md)
+
+[Troubleshooting](05-troubleshooting.md)
